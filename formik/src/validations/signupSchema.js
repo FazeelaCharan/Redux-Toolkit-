@@ -1,4 +1,4 @@
-// src/validations/signupSchema.js
+
 import * as Yup from "yup";
 
 export const signupSchema = Yup.object({

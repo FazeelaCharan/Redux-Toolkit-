@@ -1,4 +1,4 @@
-// src/components/FormButton.js
+
 import React from "react";
 
 const FormButton = ({ isSubmitting, label }) => (
