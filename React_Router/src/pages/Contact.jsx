@@ -5,7 +5,7 @@ const Contact = () => {
     <div
       style={{
         backgroundColor: "pink",
-        height: "80vh",
+        height: "90vh",
         textAlign: "center",
         fontSize: "30px",
       }}

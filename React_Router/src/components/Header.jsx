@@ -13,28 +13,22 @@ const Header = () => (
         }}
       >
         <li>
-          <Link to="/" style={{ color: "wheat", textDecoration: "none" }}>
+          <Link to="/app" style={{ color: "wheat", textDecoration: "none" }}>
             Home
           </Link>
         </li>
         <li>
-          <Link to="/about" style={{ color: "wheat", textDecoration: "none" }}>
+          <Link to="about" style={{ color: "wheat", textDecoration: "none" }}>
             About
           </Link>
         </li>
         <li>
-          <Link
-            to="/contact"
-            style={{ color: "wheat", textDecoration: "none" }}
-          >
+          <Link to="contact" style={{ color: "wheat", textDecoration: "none" }}>
             Contact
           </Link>
         </li>
         <li>
-          <Link
-            to="/product"
-            style={{ color: "wheat", textDecoration: "none" }}
-          >
+          <Link to="product" style={{ color: "wheat", textDecoration: "none" }}>
             Products
           </Link>
         </li>
